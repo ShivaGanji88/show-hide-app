@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.first-container {
+  background: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  font-family: Roboto;
+}
+.second-container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.button-one {
+  background-color: #ffffff;
+  color: #dd1264;
+  width: auto;
+  height: auto;
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+  font-weight: 800;
+  margin: 60px;
+}
+.middle-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.para {
+  background-color: #fddddb;
+  width: 180px;
+  height: 80px;
+  color: black;
+  border-radius: 10px;
+  text-align: center;
+  padding-top: 30px;
+}
